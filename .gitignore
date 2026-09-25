@@ -22,10 +22,10 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Data — only commit sample, never real usage logs (may contain API keys in extras)
-data/jev_usage.jsonl
+# Data — commit real usage logs but exclude any private files
 data/private_*.jsonl
 !data/sample_usage.jsonl
+!data/jev_usage.jsonl
 
 # Logs
 *.log

@@ -178,3 +178,4 @@
 {"ts": "2026-09-24T09:33:32", "script": "chapter2_eval", "section": "draft_eval_q11", "model": "jev-1.13.0", "input_tokens": 500, "output_tokens": 80, "cost_usd": 2.1e-05, "extra": {"note": "chapter 2 draft quality check"}}
 {"ts": "2026-09-24T09:33:32", "script": "chapter2_eval", "section": "draft_eval_q12", "model": "jev-1.13.0", "input_tokens": 500, "output_tokens": 80, "cost_usd": 2.1e-05, "extra": {"note": "chapter 2 draft quality check"}}
 {"ts": "2026-09-24T09:33:35", "script": "live_test", "section": "tracker_verification", "model": "jev-1.13.0", "input_tokens": 305, "output_tokens": 22, "cost_usd": 1.28e-05, "extra": {"purpose": "verify tracker integration"}}
+{"ts": "2026-09-25T15:43:00", "script": "cron_test", "section": "verify_sync", "model": "jev-1.13.0", "input_tokens": 777, "output_tokens": 50, "cost_usd": 3.26e-05, "extra": {"note": "testing cron sync"}}
